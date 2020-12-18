@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fruit"
+        android:title="열매 주기" />
+    <item
+        android:id="@+id/sleep"
+        android:title="재우기" />
+</menu>
